@@ -14,7 +14,7 @@
             android:text="Products"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginLeft="16dp" android:layout_marginTop="16dp" android:textSize="18sp"
+            android:layout_marginLeft="16dp" android:layout_marginTop="8dp" android:textSize="18sp"
             android:id="@+id/textView"/>
     <android.support.v7.widget.RecyclerView
             android:layout_width="0dp"
